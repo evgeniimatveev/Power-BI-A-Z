@@ -42,7 +42,6 @@ This Power BI project covers the following sections:
 3. **⏳ Section 3: Time Series, Aggregation, and Filters** - Learn how to work with time-based data, apply filters, and aggregate information for better insights.
 4. **🗺️ Section 4: Maps and Scatterplots** - Explore geographical data and visualize it with maps and scatterplots.
 5. **📊 Section 5: Building a Robust BI Dashboard** - Combine everything learned to create a comprehensive and interactive BI dashboard.
-6. **🛠️ Section 6: Leveraging Custom Visuals** - Enhance your reports by integrating custom visuals to improve data presentation.
 
 Each section is accompanied by Power BI files (.pbix) that illustrate the concepts and provide a practical learning experience.
 
