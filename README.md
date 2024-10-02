@@ -41,7 +41,7 @@ This Power BI project covers the following sections:
   - [View Screenshots](https://github.com/evgeniimatveev/Power-BI-A-Z/tree/Section-2-Your-first-Barchart-in-Power-Bi-ScreenShots)
 
 - ⏳ **Section 3: Time Series, Aggregation, and Filters** - Learn how to work with time-based data, apply filters, and aggregate information for better insights.
-  - [View Screenshots](https://github.com/evgeniimatveev/Power-BI-A-Z/tree/Section-3-Timeseries,-Aggregation-and-Filters-Screenshots)
+  - [View Screenshots](https://github.com/evgeniimatveev/Power-BI-A-Z/blob/Section-3-Timeseries%2C-Aggregation-and-Filters-Screenshots/S3%20003%20Final%2001.pdf)
   
 - 🗺️ **Section 4: Maps and Scatterplots** - Explore geographical data and visualize it with maps and scatterplots.
   - [View Screenshots](https://github.com/evgeniimatveev/Power-BI-A-Z/blob/Section-4-Maps-and-Scatterplots-Screenshots/s4%20002%20BI%20Final%20report%20Report%20vizz.pdf)
