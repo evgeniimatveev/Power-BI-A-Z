@@ -37,7 +37,7 @@ This Power BI project covers the following sections:
 - 📊 **Section 1: Getting Started** - Introduction to Power BI, including basic setup and your first visualizations.
   - [View Screenshots](https://github.com/evgeniimatveev/Power-BI-A-Z/tree/Section-1-Getting-Started-Screenshots)
   
-📈 **Section 2: Your First Bar Chart in Power BI** - Step-by-step guide to creating your first bar chart and understanding the basic functions.
+- 📈 **Section 2: Your First Bar Chart in Power BI** - Step-by-step guide to creating your first bar chart and understanding the basic functions.
   - [View Screenshots](https://github.com/evgeniimatveev/Power-BI-A-Z/tree/Section-2-Your-first-Barchart-in-Power-Bi-ScreenShots)
 
 - ⏳ **Section 3: Time Series, Aggregation, and Filters** - Learn how to work with time-based data, apply filters, and aggregate information for better insights.
@@ -46,8 +46,8 @@ This Power BI project covers the following sections:
 - 🗺️ **Section 4: Maps and Scatterplots** - Explore geographical data and visualize it with maps and scatterplots.
   - [View Screenshots](https://github.com/evgeniimatveev/Power-BI-A-Z/tree/Section-4-Maps-and-Scatterplots-Screenshots)
   
-📊 **Section 5: Building a Robust BI Dashboard** - Combine everything learned to create a comprehensive and interactive BI dashboard.
-  - [View Screenshots](https://github.com/evgeniimatveev/Power-BI-A-Z/tree/Section-5-Building-a-Robust-Bi-Dashboard-Screenshots)
+- 📊 **Section 5: Building a Robust BI Dashboard** - Combine everything learned to create a comprehensive and interactive BI dashboard.
+  - [View Screenshots]([https://github.com/evgeniimatveev/Power-BI-A-Z/tree/Section-5-Building-a-Robust-Bi-Dashboard-Screenshots)
 
 Each section is accompanied by Power BI files (.pbix) that illustrate the concepts and provide a practical learning experience.
 
