@@ -44,7 +44,7 @@ This Power BI project covers the following sections:
   - [View Screenshots](https://github.com/evgeniimatveev/Power-BI-A-Z/tree/Section-3-Timeseries,-Aggregation-and-Filters-Screenshots)
   
 - 🗺️ **Section 4: Maps and Scatterplots** - Explore geographical data and visualize it with maps and scatterplots.
-  - [View Screenshots](https://github.com/evgeniimatveev/Power-BI-A-Z/tree/Section-4-Maps-and-Scatterplots-Screenshots)
+  - [View Screenshots]([(https://github.com/evgeniimatveev/Power-BI-A-Z/tree/Section-4-Maps-and-Scatterplots-Screenshots)](https://github.com/evgeniimatveev/Power-BI-A-Z/blob/Section-4-Maps-and-Scatterplots-Screenshots/s4%20002%20BI%20Final%20report%20Report%20vizz.pdf)
   
 - 📊 **Section 5: Building a Robust BI Dashboard** - Combine everything learned to create a comprehensive and interactive BI dashboard.
   - [View Screenshots](https://github.com/evgeniimatveev/Power-BI-A-Z/blob/Section-5-Building-a-Robust-Bi-Dashboard-Screnshots/S5%20004%20%20Bi%20Report%20Final.pdf)
