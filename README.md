@@ -47,7 +47,7 @@ This Power BI project covers the following sections:
   - [View Screenshots](https://github.com/evgeniimatveev/Power-BI-A-Z/tree/Section-4-Maps-and-Scatterplots-Screenshots)
   
 - 📊 **Section 5: Building a Robust BI Dashboard** - Combine everything learned to create a comprehensive and interactive BI dashboard.
-  - [View Screenshots]([https://github.com/evgeniimatveev/Power-BI-A-Z/tree/Section-5-Building-a-Robust-Bi-Dashboard-Screenshots](https://github.com/evgeniimatveev/Power-BI-A-Z/blob/Section-5-Building-a-Robust-Bi-Dashboard-Screnshots/S5%20004%20%20Bi%20Report%20Final.pdf))
+  - [View Screenshots](https://github.com/evgeniimatveev/Power-BI-A-Z/blob/Section-5-Building-a-Robust-Bi-Dashboard-Screnshots/S5%20004%20%20Bi%20Report%20Final.pdf)
 
 Each section is accompanied by Power BI files (.pbix) that illustrate the concepts and provide a practical learning experience.
 
