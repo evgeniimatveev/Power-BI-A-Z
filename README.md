@@ -38,7 +38,7 @@ This Power BI project covers the following sections:
   - [View Screenshots](https://github.com/evgeniimatveev/Power-BI-A-Z/tree/Section-1-Getting-Started-Screenshots)
   
 - 📈 **Section 2: Your First Bar Chart in Power BI** - Step-by-step guide to creating your first bar chart and understanding the basic functions.
-  - [View Screenshots](https://github.com/evgeniimatveev/Power-BI-A-Z/tree/Section-2-Your-first-Barchart-in-Power-Bi-ScreenShots)
+  - [View Screenshots](https://github.com/evgeniimatveev/Power-BI-A-Z/blob/Section-2-Your-first-Barchart-in-Power-Bi-ScreenShots/S%202%20003%20Final.pdf)
 
 - ⏳ **Section 3: Time Series, Aggregation, and Filters** - Learn how to work with time-based data, apply filters, and aggregate information for better insights.
   - [View Screenshots](https://github.com/evgeniimatveev/Power-BI-A-Z/blob/Section-3-Timeseries%2C-Aggregation-and-Filters-Screenshots/S3%20003%20Final%2001.pdf)
