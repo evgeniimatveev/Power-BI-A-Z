@@ -1,10 +1,10 @@
-# Power BI A–Z: The Complete Power BI Course 📊
-
 <p align="center">
   <img src="https://img.shields.io/badge/tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/focus-Dashboards%20%26%20Reporting-005571?style=for-the-badge" />
   <img src="https://img.shields.io/badge/level-Beginner%20to%20Advanced-blue?style=for-the-badge" />
 </p>
+
+# Power BI A–Z: The Complete Power BI Course 📊
 
 Master end-to-end reporting workflows in **Power BI** – from importing data and building visuals  
 to designing interactive dashboards for real business scenarios.
