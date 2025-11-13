@@ -1,6 +1,28 @@
-# Power BI A-Z: The Complete Power BI Course
+# Power BI A–Z: The Complete Power BI Course 📊
 
-Welcome to the Power BI A-Z course! 📝 This project is designed for anyone looking to master Power BI and become a data analysis expert. We offer a step-by-step approach to building reports, dashboards, and visualizations in Power BI.
+<p align="center">
+  <img src="https://img.shields.io/badge/tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/focus-Dashboards%20%26%20Reporting-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/level-Beginner%20to%20Advanced-blue?style=for-the-badge" />
+</p>
+
+Master end-to-end reporting workflows in **Power BI** – from importing data and building visuals  
+to designing interactive dashboards for real business scenarios.
+
+---
+
+## 🚀 Quick Start
+
+1. **Download the sample files**
+   - `data/hello_power_bi_dataset.csv`
+   - `reports/hello_dashboard.pbix`
+2. **Open the PBIX file in Power BI Desktop.**
+3. Explore:
+   - Basic visuals (bar chart, card, slicer)
+   - Simple measures (Total Sales, Avg Sales)
+   - A mini dashboard page based on the sample dataset.
+
+---
 
 ## What can you expect? 🤔
 
