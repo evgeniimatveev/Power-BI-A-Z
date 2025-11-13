@@ -1,0 +1,10 @@
+country,year,unemployment_rate,notes
+United States,2010,9.6,After financial crisis
+United States,2015,5.3,Recovery period
+United States,2020,8.1,COVID-19 impact
+Germany,2010,7.1,EU financial turbulence
+Germany,2015,4.6,Stable labor market
+Germany,2020,4.3,Pandemic but softer impact
+Japan,2010,5.1,Post-2008 effects
+Japan,2015,3.4,Low unemployment
+Japan,2020,2.8,Relatively stable
