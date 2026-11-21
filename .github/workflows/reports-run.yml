@@ -1,0 +1,23 @@
+name: Report numbers checked (manual)
+
+# Manual only: click "Run workflow" in the Actions tab. No push / PR / schedule triggers.
+# Re-computes the figures printed in the Power BI report screenshots (PDF) from the source data.
+on:
+  workflow_dispatch:
+  push:
+    branches: [restructure/single-main-numbered-sections]   # TEMPORARY: to test before merge
+
+permissions:
+  contents: read
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: astral-sh/setup-uv@v7
+      - name: Real files must open (XLSX, CSV, PBIX, PDF)
+        run: uv run --no-project --with pypdf python .github/scripts/check_files.py
+      - name: Check the report numbers against the data (see Job Summary for the table)
+        run: uv run --no-project --with pandas --with openpyxl --with pypdf python .github/scripts/check_reports.py
