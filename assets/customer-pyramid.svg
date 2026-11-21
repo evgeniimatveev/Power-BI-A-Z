@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560" role="img" aria-label="Who banks with them">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1a19"/><stop offset="1" stop-color="#2d2c2a"/></linearGradient></defs>
+<rect width="980" height="560" rx="16" fill="url(#bg)" stroke="#3b3a39"/>
+<text x="32" y="46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#f3f2f1">Who banks with them</text>
+<text x="32" y="74" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#a19f9d">uk-bank-customers.xlsx: 4,014 customers by age group and gender, ages 15 to 64</text>
+<text x="478" y="104" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#01B8AA">Male  2,165  (53.9%)</text>
+<text x="502" y="104" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#F2C811">Female  1,849  (46.1%)</text>
+<rect x="465.1" y="118" width="24.9" height="30" rx="5" fill="#01B8AA"/><text x="457.1" y="137" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">27</text>
+<rect x="490" y="118" width="24.9" height="30" rx="5" fill="#F2C811"/><text x="522.9" y="137" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">27</text>
+<text x="490" y="137" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1b1a19">15-19</text>
+<rect x="419.9" y="156" width="70.1" height="30" rx="5" fill="#01B8AA"/><text x="411.9" y="175" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">76</text>
+<rect x="490" y="156" width="97.8" height="30" rx="5" fill="#F2C811"/><text x="595.8" y="175" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">106</text>
+<text x="490" y="175" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1b1a19">20-24</text>
+<rect x="276.9" y="194" width="213.1" height="30" rx="5" fill="#01B8AA"/><text x="268.9" y="213" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">231</text>
+<rect x="490" y="194" width="231.5" height="30" rx="5" fill="#F2C811"/><text x="729.5" y="213" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">251</text>
+<text x="490" y="213" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1b1a19">25-29</text>
+<rect x="129.4" y="232" width="360.6" height="30" rx="5" fill="#01B8AA"/><text x="121.4" y="251" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">391</text>
+<rect x="490" y="232" width="378.2" height="30" rx="5" fill="#F2C811"/><text x="876.2" y="251" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">410</text>
+<text x="490" y="251" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1b1a19">30-34</text>
+<rect x="134.9" y="270" width="355.1" height="30" rx="5" fill="#01B8AA"/><text x="126.9" y="289" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">385</text>
+<rect x="490" y="270" width="380.0" height="30" rx="5" fill="#F2C811"/><text x="878.0" y="289" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">412</text>
+<text x="490" y="289" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1b1a19">35-39</text>
+<rect x="182.9" y="308" width="307.1" height="30" rx="5" fill="#01B8AA"/><text x="174.9" y="327" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">333</text>
+<rect x="490" y="308" width="261.0" height="30" rx="5" fill="#F2C811"/><text x="759.0" y="327" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">283</text>
+<text x="490" y="327" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1b1a19">40-44</text>
+<rect x="227.1" y="346" width="262.9" height="30" rx="5" fill="#01B8AA"/><text x="219.1" y="365" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">285</text>
+<rect x="490" y="346" width="154.0" height="30" rx="5" fill="#F2C811"/><text x="652.0" y="365" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">167</text>
+<text x="490" y="365" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1b1a19">45-49</text>
+<rect x="274.2" y="384" width="215.8" height="30" rx="5" fill="#01B8AA"/><text x="266.2" y="403" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">234</text>
+<rect x="490" y="384" width="90.4" height="30" rx="5" fill="#F2C811"/><text x="588.4" y="403" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">98</text>
+<text x="490" y="403" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1b1a19">50-54</text>
+<rect x="370.1" y="422" width="119.9" height="30" rx="5" fill="#01B8AA"/><text x="362.1" y="441" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">130</text>
+<rect x="490" y="422" width="66.4" height="30" rx="5" fill="#F2C811"/><text x="564.4" y="441" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">72</text>
+<text x="490" y="441" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1b1a19">55-59</text>
+<rect x="422.7" y="460" width="67.3" height="30" rx="5" fill="#01B8AA"/><text x="414.7" y="479" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">73</text>
+<rect x="490" y="460" width="21.2" height="30" rx="5" fill="#F2C811"/><text x="519.2" y="479" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#f3f2f1">23</text>
+<text x="490" y="479" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1b1a19">60-64</text>
+<text x="32" y="542" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#a19f9d">Customers per 5-year age group. Largest group: 30-34 years, 801 customers.</text>
+</svg>

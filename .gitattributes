@@ -1,1 +1,5 @@
 *.csv linguist-detectable=true linguist-language=CSV
+# Binary course files: never touch line endings
+*.pbix binary
+*.xlsx binary
+*.pdf binary
