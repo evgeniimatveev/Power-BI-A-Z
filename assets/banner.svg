@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Power BI A-Z banner">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1a19"/><stop offset="1" stop-color="#2d2c2a"/></linearGradient></defs>
+  <rect width="1280" height="320" rx="18" fill="url(#bg)" stroke="#3b3a39"/>
+  <rect x="64" y="52" width="14" height="30" rx="3" fill="#F2C811"/><rect x="84" y="40" width="14" height="42" rx="3" fill="#e0b50e"/><rect x="104" y="28" width="14" height="54" rx="3" fill="#c9a50f"/>
+  <text x="136" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#F2C811" letter-spacing="5">REPORTS · DASHBOARDS · VISUALS</text>
+  <text x="62" y="176" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="76" font-weight="800" fill="#f3f2f1">Power BI <tspan fill="#F2C811">A–Z</tspan></text>
+  <text x="64" y="226" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#01B8AA">Five sections: from first import to a full BI dashboard</text>
+  <text x="64" y="270" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#a19f9d">bar charts  ·  time series  ·  maps  ·  scatter plots  ·  tree maps</text>
+  <line x1="830" y1="270" x2="1250" y2="270" stroke="#605e5c"/>
+  <rect x="840" y="221" width="30" height="49" rx="5" fill="#8a7410"/><rect x="880" y="195" width="30" height="75" rx="5" fill="#8a7410"/><rect x="920" y="211" width="30" height="59" rx="5" fill="#8a7410"/><rect x="960" y="168" width="30" height="102" rx="5" fill="#8a7410"/><rect x="1000" y="186" width="30" height="84" rx="5" fill="#c9a50f"/><rect x="1040" y="137" width="30" height="133" rx="5" fill="#c9a50f"/><rect x="1080" y="160" width="30" height="110" rx="5" fill="#c9a50f"/><rect x="1120" y="99" width="30" height="171" rx="5" fill="#F2C811"/><rect x="1160" y="119" width="30" height="151" rx="5" fill="#F2C811"/><rect x="1200" y="58" width="30" height="212" rx="5" fill="#F2C811"/>
+  <polyline points="855,203 895,177 935,193 975,150 1015,168 1055,119 1095,142 1135,81 1175,101 1215,40" fill="none" stroke="#01B8AA" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="1215" cy="40" r="6" fill="#01B8AA"/>
+</svg>

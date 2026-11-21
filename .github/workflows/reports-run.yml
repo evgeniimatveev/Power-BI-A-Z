@@ -4,8 +4,6 @@ name: Report numbers checked (manual)
 # Re-computes the figures printed in the Power BI report screenshots (PDF) from the source data.
 on:
   workflow_dispatch:
-  push:
-    branches: [restructure/single-main-numbered-sections]   # TEMPORARY: to test before merge
 
 permissions:
   contents: read

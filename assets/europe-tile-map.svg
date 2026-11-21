@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="670" viewBox="0 0 980 670" role="img" aria-label="Sales across Europe">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1a19"/><stop offset="1" stop-color="#2d2c2a"/></linearGradient></defs>
+<rect width="980" height="670" rx="16" fill="url(#bg)" stroke="#3b3a39"/>
+<text x="32" y="46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#f3f2f1">Sales across Europe</text>
+<text x="32" y="74" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#a19f9d">amazing-mart-eu-geo.xlsx: 8,047 order lines in 15 countries; colour = total sales, dot = profit (teal) or loss (red)</text>
+<rect x="272" y="100" width="108" height="94" rx="12" fill="#524c33"/>
+<text x="286" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="800" fill="#f3f2f1">NO</text>
+<text x="286" y="160" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#f3f2f1">21K</text>
+<text x="286" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#a19f9d">Norway</text>
+<circle cx="360" cy="122" r="7" fill="#01B8AA"/>
+<rect x="388" y="100" width="108" height="94" rx="12" fill="#595132"/>
+<text x="402" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="800" fill="#f3f2f1">SE</text>
+<text x="402" y="160" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#f3f2f1">30K</text>
+<text x="402" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#a19f9d">Sweden</text>
+<circle cx="476" cy="122" r="7" fill="#FD625E"/>
+<rect x="504" y="100" width="108" height="94" rx="12" fill="#534c33"/>
+<text x="518" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="800" fill="#f3f2f1">FI</text>
+<text x="518" y="160" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#f3f2f1">21K</text>
+<text x="518" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#a19f9d">Finland</text>
+<circle cx="592" cy="122" r="7" fill="#01B8AA"/>
+<rect x="40" y="202" width="108" height="94" rx="12" fill="#4f4934"/>
+<text x="54" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="800" fill="#f3f2f1">IE</text>
+<text x="54" y="262" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#f3f2f1">16K</text>
+<text x="54" y="282" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#a19f9d">Ireland</text>
+<circle cx="128" cy="224" r="7" fill="#FD625E"/>
+<rect x="156" y="202" width="108" height="94" rx="12" fill="#cdab18"/>
+<text x="170" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="800" fill="#1b1a19">UK</text>
+<text x="170" y="262" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#1b1a19">420K</text>
+<text x="170" y="282" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#3b3a39">United Kingdom</text>
+<circle cx="244" cy="224" r="7" fill="#01B8AA"/>
+<rect x="388" y="202" width="108" height="94" rx="12" fill="#484436"/>
+<text x="402" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="800" fill="#f3f2f1">DK</text>
+<text x="402" y="262" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#f3f2f1">8K</text>
+<text x="402" y="282" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#a19f9d">Denmark</text>
+<circle cx="476" cy="224" r="7" fill="#FD625E"/>
+<rect x="272" y="304" width="108" height="94" rx="12" fill="#6d602e"/>
+<text x="286" y="338" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="800" fill="#f3f2f1">NL</text>
+<text x="286" y="364" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#f3f2f1">70K</text>
+<text x="286" y="384" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#a19f9d">Netherlands</text>
+<circle cx="360" cy="326" r="7" fill="#FD625E"/>
+<rect x="388" y="304" width="108" height="94" rx="12" fill="#dbb615"/>
+<text x="402" y="338" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="800" fill="#1b1a19">DE</text>
+<text x="402" y="364" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#1b1a19">489K</text>
+<text x="402" y="384" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#3b3a39">Germany</text>
+<circle cx="476" cy="326" r="7" fill="#01B8AA"/>
+<rect x="272" y="406" width="108" height="94" rx="12" fill="#5f5630"/>
+<text x="286" y="440" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="800" fill="#f3f2f1">BE</text>
+<text x="286" y="466" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#f3f2f1">42K</text>
+<text x="286" y="486" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#a19f9d">Belgium</text>
+<circle cx="360" cy="428" r="7" fill="#01B8AA"/>
+<rect x="388" y="406" width="108" height="94" rx="12" fill="#554e33"/>
+<text x="402" y="440" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="800" fill="#f3f2f1">CH</text>
+<text x="402" y="466" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#f3f2f1">25K</text>
+<text x="402" y="486" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#a19f9d">Switzerland</text>
+<circle cx="476" cy="428" r="7" fill="#01B8AA"/>
+<rect x="504" y="406" width="108" height="94" rx="12" fill="#70632d"/>
+<text x="518" y="440" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="800" fill="#f3f2f1">AT</text>
+<text x="518" y="466" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#f3f2f1">79K</text>
+<text x="518" y="486" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#a19f9d">Austria</text>
+<circle cx="592" cy="428" r="7" fill="#01B8AA"/>
+<rect x="40" y="508" width="108" height="94" rx="12" fill="#4e4934"/>
+<text x="54" y="542" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="800" fill="#f3f2f1">PT</text>
+<text x="54" y="568" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#f3f2f1">15K</text>
+<text x="54" y="588" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#a19f9d">Portugal</text>
+<circle cx="128" cy="530" r="7" fill="#FD625E"/>
+<rect x="156" y="508" width="108" height="94" rx="12" fill="#a68d21"/>
+<text x="170" y="542" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="800" fill="#1b1a19">ES</text>
+<text x="170" y="568" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#1b1a19">249K</text>
+<text x="170" y="588" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#3b3a39">Spain</text>
+<circle cx="244" cy="530" r="7" fill="#01B8AA"/>
+<rect x="272" y="508" width="108" height="94" rx="12" fill="#f2c811"/>
+<text x="286" y="542" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="800" fill="#1b1a19">FR</text>
+<text x="286" y="568" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#1b1a19">610K</text>
+<text x="286" y="588" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#3b3a39">France</text>
+<circle cx="360" cy="530" r="7" fill="#01B8AA"/>
+<rect x="388" y="508" width="108" height="94" rx="12" fill="#a68d21"/>
+<text x="402" y="542" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="23" font-weight="800" fill="#1b1a19">IT</text>
+<text x="402" y="568" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#1b1a19">253K</text>
+<text x="402" y="588" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#3b3a39">Italy</text>
+<circle cx="476" cy="530" r="7" fill="#01B8AA"/>
+<text x="630" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#f3f2f1">Total sales</text><text x="630" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="#F2C811">2.35M</text>
+<text x="630" y="212" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#a19f9d">profit 283K (12.1%)</text>
+<text x="630" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#a19f9d">top 3: FR, DE, UK = 65% of sales</text>
+<text x="32" y="652" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#a19f9d">Sales summed per country from OrderBreakdown, joined to ListOfOrders on Order ID. Tiles are placed like a map, not drawn to scale.</text>
+</svg>
